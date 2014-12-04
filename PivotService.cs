@@ -2,10 +2,8 @@ using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Linq;
-using Agresso.Foundation;
-using Agresso.Types;
 
-namespace Agresso.Fundamentals.ObjectQueryEngine.Web.Http.ObjectViewer.Service
+namespace ClientPivoting
 {
     public class PivotService
     {
